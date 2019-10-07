@@ -4,7 +4,7 @@
 
 ## Contents
 
-[1. Architecture](#architecture)
+[Architecture](#architecture)
 
 ### Architecture
 
