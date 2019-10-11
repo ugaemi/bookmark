@@ -6,6 +6,7 @@
 
 1. [Architecture](#architecture)
 2. [Django](#django)
+3. [Git](#git)
 
 ### Architecture
 
@@ -15,3 +16,7 @@
 ### Django
 
 - [Django vs Flask](https://www.educba.com/django-vs-flask/)
+
+### Git
+
+- [Git-flow](http://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html)
