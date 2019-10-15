@@ -25,7 +25,7 @@
 
 ### TDD
 
-- [테스트하기 쉬운 코드](https://www.slideshare.net/OKJSP/okkycon-120497749?from_m_app=ios)
+- [테스트하기 쉬운 코드로 개발하기](https://www.slideshare.net/OKJSP/okkycon-120497749?from_m_app=ios)
 
 ### Web
 
