@@ -8,7 +8,9 @@
 2. [Clean Code](#cleancode)
 3. [Django](#django)
 4. [Git](#git)
-5. [TDD](#tdd)
+5. [Linux](#linux)
+6. [TDD](#tdd)
+7. [Web](#web)
 
 ### Architecture
 
@@ -27,6 +29,10 @@
 
 - [Git-flow](http://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html)
 - [좋은 git 커밋 메시지를 작성하기 위한 7가지 약속](https://meetup.toast.com/posts/106)
+
+### Linux
+
+- [스타트업 개발자가 리눅스 서버에 들어가면 언제나 하는 작업들](https://www.mimul.com/blog/linux-server-operations/)
 
 ### TDD
 
