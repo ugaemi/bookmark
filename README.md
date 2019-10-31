@@ -5,14 +5,19 @@
 ## Contents
 
 1. [Architecture](#architecture)
-2. [Django](#django)
-3. [Git](#git)
-4. [TDD](#tdd)
+2. [Clean Code](#cleancode)
+3. [Django](#django)
+4. [Git](#git)
+5. [TDD](#tdd)
 
 ### Architecture
 
 - [Clean Architecture in Django](https://engineering.21buttons.com/clean-architecture-in-django-d326a4ab86a9)
 - [Clean Architecture : Part 2 - The Clean Architecture 번역본](https://medium.com/@younghyun/clean-architecture-part-2-the-clean-architecture-3e2666cdce83)
+
+### Clean Code
+
+- [Clean Code](https://sungjk.github.io/2017/07/27/clean-code.html?fbclid=IwAR2I8k1h_kkaD-Xb3VvGq6FB5ntYn6Ab3Zd_BQ42SaRYsRW3rf7VL0QeTsU)
 
 ### Django
 
