@@ -8,9 +8,10 @@
 2. [Clean Code](#cleancode)
 3. [Django](#django)
 4. [Git](#git)
-5. [Linux](#linux)
-6. [TDD](#tdd)
-7. [Web](#web)
+5. [Junior](#junior)
+6. [Linux](#linux)
+7. [TDD](#tdd)
+8. [Web](#web)
 
 ### Architecture
 
@@ -29,6 +30,10 @@
 
 - [Git-flow](http://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html)
 - [좋은 git 커밋 메시지를 작성하기 위한 7가지 약속](https://meetup.toast.com/posts/106)
+
+### Junior
+
+- [초보 개발자에게](https://docs.google.com/document/d/16RXSJzG6mK02yiXW8ey9wWyylSSEZ3JBcmc9Lb4s64Q/edit)
 
 ### Linux
 
