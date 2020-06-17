@@ -26,6 +26,10 @@
 
 - [Django vs Flask](https://www.educba.com/django-vs-flask/)
 
+### Docker
+
+- [Dockerizing Django with Postgres, Gunicorn, and Nginx](https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/)
+
 ### Git
 
 - [Git-flow](http://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html)
