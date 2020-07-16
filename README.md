@@ -61,6 +61,10 @@
 - [Decorator cheatsheet](https://www.pydanny.com/python-decorator-cheatsheet.html)
 - [How to write obfuscated python](https://pyvideo.org/pycon-us-2011/pycon-2011--how-to-write-obfuscated-python.html)
 
+### Rust
+
+- [The Rust Programming Language](https://rinthel.github.io/rust-lang-book-ko/foreword.html)
+
 ### TDD
 
 - [테스트하기 쉬운 코드로 개발하기](https://www.slideshare.net/OKJSP/okkycon-120497749?from_m_app=ios)
