@@ -4,29 +4,40 @@
 
 ## Contents
 
+1. [Algorithm](#algorithm)
 1. [Architecture](#architecture)
-2. [Clean Code](#cleancode)
-3. [Django](#django)
-4. [Documentation](#documentation)
-5. [Git](#git)
-6. [Junior](#junior)
-7. [Linux](#linux)
-8. [TDD](#tdd)
-9. [Web](#web)
-10. [etc](#etc)
+2. [API](#api)
+3. [Coding Style](#codingstyle)
+4. [Clean Code](#cleancode)
+5. [Django](#django)
+6. [Documentation](#documentation)
+7. [Git](#git)
+8. [Junior](#junior)
+9. [Linux](#linux)
+10. [TDD](#tdd)
+11. [Web](#web)
+12. [etc](#etc)
+
+### Algorithm
+
+- [Big-O Cheet Seeht](https://www.bigocheatsheet.com/)
 
 ### Architecture
 
 - [Clean Architecture in Django](https://engineering.21buttons.com/clean-architecture-in-django-d326a4ab86a9)
 - [Clean Architecture : Part 2 - The Clean Architecture 번역본](https://medium.com/@younghyun/clean-architecture-part-2-the-clean-architecture-3e2666cdce83)
 
-### Coding Style
+### API
+
+- [API 디자인 지침](https://docs.microsoft.com/ko-kr/azure/architecture/best-practices/api-design)
+
+### CodingStyle
 
 - [PEP 8](https://www.python.org/dev/peps/pep-0008/)
 - [Django Coding Style](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
 - [HTML과 CSS를 위한 코드 가이드](https://codeguide.co/)
 
-### Clean Code
+### CleanCode
 
 - [Clean Code](https://sungjk.github.io/2017/07/27/clean-code.html?fbclid=IwAR2I8k1h_kkaD-Xb3VvGq6FB5ntYn6Ab3Zd_BQ42SaRYsRW3rf7VL0QeTsU)
 
