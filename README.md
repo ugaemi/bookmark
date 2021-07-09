@@ -12,11 +12,14 @@
 5. [Django](#django)
 6. [Documentation](#documentation)
 7. [Git](#git)
-8. [Junior](#junior)
-9. [Linux](#linux)
-10. [TDD](#tdd)
-11. [Web](#web)
-12. [etc](#etc)
+8. [JavaScript](#javascript)
+9. [Junior](#junior)
+10. [Linux](#linux)
+11. [TDD](#tdd)
+12. [React](#react)
+13. [Rust](#rust)
+14. [Web](#web)
+15. [etc](#etc)
 
 ### Algorithm
 
@@ -64,6 +67,9 @@
 - [Git-flow](http://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html)
 - [좋은 git 커밋 메시지를 작성하기 위한 7가지 약속](https://meetup.toast.com/posts/106)
 
+### JavaScript
+- [벨로퍼트와 함께하는 모던 자바스크립트](https://learnjs.vlpt.us/)
+
 ### Junior
 
 - [초보 개발자에게](https://docs.google.com/document/d/16RXSJzG6mK02yiXW8ey9wWyylSSEZ3JBcmc9Lb4s64Q/edit)
@@ -72,14 +78,18 @@
 
 - [스타트업 개발자가 리눅스 서버에 들어가면 언제나 하는 작업들](https://www.mimul.com/blog/linux-server-operations/)
 
-### Python
+### React
 
-- [Decorator cheatsheet](https://www.pydanny.com/python-decorator-cheatsheet.html)
-- [How to write obfuscated python](https://pyvideo.org/pycon-us-2011/pycon-2011--how-to-write-obfuscated-python.html)
+- [벨로퍼트와 함께하는 모던 리액트](https://react.vlpt.us/)
 
 ### Rust
 
 - [The Rust Programming Language](https://rinthel.github.io/rust-lang-book-ko/foreword.html)
+
+### Python
+
+- [Decorator cheatsheet](https://www.pydanny.com/python-decorator-cheatsheet.html)
+- [How to write obfuscated python](https://pyvideo.org/pycon-us-2011/pycon-2011--how-to-write-obfuscated-python.html)
 
 ### TDD
 
