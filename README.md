@@ -15,9 +15,10 @@
 8. [JavaScript](#javascript)
 9. [Junior](#junior)
 10. [Linux](#linux)
-11. [TDD](#tdd)
+11. [MySQL](#MySQL)
 12. [React](#react)
 13. [Rust](#rust)
+11. [TDD](#tdd)
 14. [Web](#web)
 15. [etc](#etc)
 
@@ -78,6 +79,15 @@
 
 - [스타트업 개발자가 리눅스 서버에 들어가면 언제나 하는 작업들](https://www.mimul.com/blog/linux-server-operations/)
 
+### MySQL
+
+- [8 Reasons Why MySQL's ENUM Data Type Is Evil](http://komlenic.com/244/8-reasons-why-mysqls-enum-data-type-is-evil/)
+
+### Python
+
+- [Decorator cheatsheet](https://www.pydanny.com/python-decorator-cheatsheet.html)
+- [How to write obfuscated python](https://pyvideo.org/pycon-us-2011/pycon-2011--how-to-write-obfuscated-python.html)
+
 ### React
 
 - [벨로퍼트와 함께하는 모던 리액트](https://react.vlpt.us/)
@@ -85,11 +95,6 @@
 ### Rust
 
 - [The Rust Programming Language](https://rinthel.github.io/rust-lang-book-ko/foreword.html)
-
-### Python
-
-- [Decorator cheatsheet](https://www.pydanny.com/python-decorator-cheatsheet.html)
-- [How to write obfuscated python](https://pyvideo.org/pycon-us-2011/pycon-2011--how-to-write-obfuscated-python.html)
 
 ### TDD
 
